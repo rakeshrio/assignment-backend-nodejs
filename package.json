@@ -4,7 +4,8 @@
   "description": "This is for echnical round",
   "main": "index.js",
   "scripts": {
-    "test": "npm run build"
+    "test": "npm run build",
+    "start":"node ."
   },
   "author": "",
   "license": "ISC",
